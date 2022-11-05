@@ -14,3 +14,8 @@ The project can be used to evaluate various usage data of a bike share offer.
 washington.csv
 chicago.csv
 new_york_city.csv
+
+### Credits
+Udacity Nanodegree - PROGRAMMING FOR DATA SCIENCE WITH PYTHON
+
+
