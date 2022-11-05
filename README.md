@@ -7,4 +7,10 @@ ReadMe 2022-11-05
 ### Project Title
 Explore US Bikeshare
 
+### Description
+The project can be used to evaluate various usage data of a bike share offer.
 
+### Files used
+washington.csv
+chicago.csv
+new_york_city.csv
