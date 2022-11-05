@@ -8,7 +8,7 @@ ReadMe 2022-11-05
 Explore US Bikeshare
 
 ### Description
-The project can be used to evaluate various usage data of a bike share offer.
+The project can be used to evaluate various usage data of a bike share offer in NYC, Washington and Chicago"
 
 ### Files used
 washington.csv
